@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<title>Ekip İletişim Kartı</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+ body {
+   font-family: Arial, sans-serif;
+   background: #f4f6f8;
+   padding: 20px;
+ }
+ .card {
+   background: white;
+   padding: 20px;
+   margin-bottom: 15px;
+   border-radius: 12px;
+   box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+ }
+ h1 { text-align: center; }
+ .name { font-size: 20px; font-weight: bold; }
+</style>
+</head>
+<body>
+<h1>👥 Ekip İletişim Kartı</h1>
+<div class="card">
+<div class="name">Andrei David</div>
+ 📞 05xx xxx xx xx<br>
+ 📧 GDavid@slb.com
+</div>
+<div class="card">
+<div class="name">Ahmet Tolga Usta</div>
+ 📞 05xx xxx xx xx<br>
+ 📧 austa@slb.com
+</div>
+<div class="card">
+<div class="name">Turgut Can Bilmez</div>
+ 📞 05xx xxx xx xx<br>
+ 📧 tbilmez@slb.com
+</div>
+<div class="card">
+<div class="name">Şeyma Nur Gündüz</div>
+ 📞 05xx xxx xx xx<br>
+ 📧 sgunduz@slb.com
+</div>
+<div class="card">
+<div class="name">Yasemin Hamitoglu</div>
+ 📞 05xx xxx xx xx<br>
+ 📧 ykilic@slb.com
+</div>
+</body>
+</html>
